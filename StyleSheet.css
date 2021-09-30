@@ -11,7 +11,7 @@ body{
 .container{
     width: 35%;
     min-width: 450px;
-    background-image: linear-gradient(to right, rgb(88, 42, 53), rgb(188, 73, 88));
+    background-image: linear-gradient(to right, rgb(88, 42, 53), rgb(119, 30, 42));
     padding: 40px 30px;
     position: absolute;
     transform: translate(-50%,-50%);
